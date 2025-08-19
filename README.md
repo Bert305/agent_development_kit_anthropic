@@ -46,9 +46,9 @@ This project demonstrates a simple agent that can answer questions about the tim
 	└── README.md
 	```
 
-For setup of the .env
-GOOGLE_GENAI_USE_VERTEXAI=FALSE
-GOOGLE_API_KEY=YOUR_API_KEY
+<p>For setup of the .env</p>
+<p>GOOGLE_GENAI_USE_VERTEXAI=FALSE</p>
+<p>GOOGLE_API_KEY=YOUR_API_KEY</p>
 
 
 5. **Run the agent (example):**
