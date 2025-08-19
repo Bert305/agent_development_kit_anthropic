@@ -2,9 +2,9 @@
 Source (updated hard coded weather and time agent for Ney York only, to access the weather and time from any state in the US) --> https://google.github.io/adk-docs/get-started/quickstart/
 
 
-cd agent_development_kit_anthropic
-run in terminal: adk web
-UI: http://localhost:8000
+<p>cd agent_development_kit_anthropic</p>
+<p>run in terminal: adk web</p>
+<p>UI: http://localhost:8000</p>
 # Multi Tool Agent Project
 
 This project demonstrates a simple agent that can answer questions about the time and weather in a city using the `google-adk` library.
