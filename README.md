@@ -5,6 +5,12 @@ Source (updated hard coded weather and time agent for Ney York only, to access t
 <p>cd agent_development_kit_anthropic</p>
 <p>run in terminal: adk web</p>
 <p>UI: http://localhost:8000</p>
+<p>claude CLI set up (cd into project first): claude</p>
+<p>Claude-CLI link page with Anthropic: https://docs.anthropic.com/en/docs/claude-code/quickstart</p>
+<p>ADK - Agent development kit quick start link: https://google.github.io/adk-docs/get-started/quickstart/</p>
+
+
+
 # Multi Tool Agent Project
 
 This project demonstrates a simple agent that can answer questions about the time and weather in a city using the `google-adk` library.
